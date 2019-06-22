@@ -1,0 +1,20 @@
+mybatis: 
+  type-aliases-package: com.cssl.pojo
+  configuration:
+    auto-mapping-behavior: FULL
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    
+  
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: ENC(VJFOJomsXc7DQdanZHBFcxFrQVyUBej5RMjal+ZB0x/ne6Yq8trmbGXed8i8V4qL)
+    data-username: ENC(+tIW6Xc4laf2jjhY2q/WhQ==)
+    data-password: ENC(LqpgaxJvIZWJOI5XWHIsLA==)
+    
+pagehelper:
+  reasonable: true #启用合理化
+  
+jasypt:   #或者在JVM启动参数中设置-Djasypt.encryptor.password=dsa23jgr32
+  encryptor: 
+    password: dsa23jgr32 #盐值

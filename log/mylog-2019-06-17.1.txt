@@ -1,0 +1,382 @@
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started App in 0.625 seconds (JVM running for 90.78)
+Condition evaluation unchanged
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting App on LAPTOP-1UR8NBDI with PID 13228 (D:\JAVA\spring-soft\Workspace\demo1\target\classes started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource devtools [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 830 ms
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started App in 1.24 seconds (JVM running for 202.335)
+Condition evaluation unchanged
+Starting JTest on LAPTOP-1UR8NBDI with PID 4320 (started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource Inlined Test Properties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+Started JTest in 4.814 seconds (JVM running for 5.546)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting App on LAPTOP-1UR8NBDI with PID 13228 (D:\JAVA\spring-soft\Workspace\demo1\target\classes started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource devtools [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 365 ms
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started App in 0.545 seconds (JVM running for 644.76)
+Condition evaluation unchanged
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting App on LAPTOP-1UR8NBDI with PID 13228 (D:\JAVA\spring-soft\Workspace\demo1\target\classes started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource devtools [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1295 ms
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Starting JTest on LAPTOP-1UR8NBDI with PID 5872 (started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started App in 2.14 seconds (JVM running for 664.772)
+Condition evaluation unchanged
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource Inlined Test Properties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+Started JTest in 7.486 seconds (JVM running for 9.437)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting App on LAPTOP-1UR8NBDI with PID 23576 (D:\JAVA\spring-soft\Workspace\demo1\target\classes started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource devtools [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 8687 ms
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started App in 16.651 seconds (JVM running for 18.686)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 17 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+Shutting down ExecutorService 'applicationTaskExecutor'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting App on LAPTOP-1UR8NBDI with PID 23576 (D:\JAVA\spring-soft\Workspace\demo1\target\classes started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource devtools [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 474 ms
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started App in 0.732 seconds (JVM running for 142.605)
+Condition evaluation unchanged
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting App on LAPTOP-1UR8NBDI with PID 23576 (D:\JAVA\spring-soft\Workspace\demo1\target\classes started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource servletConfigInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource servletContextInitParams [org.springframework.core.env.PropertySource$StubPropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource devtools [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 459 ms
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started App in 0.756 seconds (JVM running for 208.51)
+Condition evaluation unchanged
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting JTest on LAPTOP-1UR8NBDI with PID 6548 (started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource Inlined Test Properties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+Started JTest in 4.638 seconds (JVM running for 5.378)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting JTest on LAPTOP-1UR8NBDI with PID 21140 (started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource Inlined Test Properties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+Started JTest in 4.83 seconds (JVM running for 5.667)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting JTest on LAPTOP-1UR8NBDI with PID 25084 (started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource Inlined Test Properties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+Started JTest in 4.66 seconds (JVM running for 5.374)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting JTest on LAPTOP-1UR8NBDI with PID 23588 (started by 11692 in D:\JAVA\spring-soft\Workspace\demo1)
+No active profile set, falling back to default profiles: default
+Post-processing PropertySource instances
+Converting PropertySource configurationProperties [org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource] to AOP Proxy
+Converting PropertySource Inlined Test Properties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemProperties [org.springframework.core.env.MapPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableMapPropertySourceWrapper
+Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+Converting PropertySource applicationConfig: [classpath:/application.yml] [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+String Encryptor custom Bean not found with name 'jasyptStringEncryptor'. Initializing Default String Encryptor
+Encryptor config not found for property jasypt.encryptor.algorithm, using default value: PBEWithMD5AndDES
+Encryptor config not found for property jasypt.encryptor.keyObtentionIterations, using default value: 1000
+Encryptor config not found for property jasypt.encryptor.poolSize, using default value: 1
+Encryptor config not found for property jasypt.encryptor.providerName, using default value: null
+Encryptor config not found for property jasypt.encryptor.providerClassName, using default value: null
+Encryptor config not found for property jasypt.encryptor.saltGeneratorClassname, using default value: org.jasypt.salt.RandomSaltGenerator
+Encryptor config not found for property jasypt.encryptor.stringOutputType, using default value: base64
+Initializing ExecutorService 'applicationTaskExecutor'
+Started JTest in 3.47 seconds (JVM running for 4.257)
+Shutting down ExecutorService 'applicationTaskExecutor'
